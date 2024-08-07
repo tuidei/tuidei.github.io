@@ -67,29 +67,21 @@ education:
     date_end: 2019-06-15
     summary: |
       GPA: 3.8/4.0
-  - area: BSc Artificial Intelligence
+  - area: BSc Pure Mathematics
     institution: East China Normal University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2012-09-01
+    date_end: 2016-06-15
     summary: |
       GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Postdoc Fellow
+    company_name: University of British Columbia
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-08-15
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
