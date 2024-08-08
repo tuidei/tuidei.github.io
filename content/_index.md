@@ -74,6 +74,7 @@ sections:
       view: article-grid
       columns: 1
   - block: collection
+    demo: true
     id: news
     content:
       title: Recent News
