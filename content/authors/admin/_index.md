@@ -57,7 +57,7 @@ education:
     date_start: 2019-09-01
     date_end: 2024-05-15
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Bruce Sagan](https://users.math.msu.edu/users/bsagan/).
+      Thesis on _Why LLMs are awesome_. Supervised by Prof Bruce Sagan (https://users.math.msu.edu/users/bsagan/).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -65,14 +65,14 @@ education:
     institution: Nankai University
     date_start: 2016-09-01
     date_end: 2019-06-15
-    summary: |
-      GPA: 3.8/4.0
+    #summary: |
+    #  GPA: 3.8/4.0
   - area: BSc Pure Mathematics
     institution: East China Normal University
     date_start: 2012-09-01
     date_end: 2016-06-15
-    summary: |
-      GPA: 3.4/4.0
+    #summary: |
+    #  GPA: 3.4/4.0
 work:
   - position: Postdoc Fellow
     company_name: University of British Columbia
@@ -85,37 +85,37 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+#skills:
+  #- name: Technical Skills
+  #  items:
+  #    - name: Python
+   #     description: ''
+   #     percent: 80
+   #     icon: code-bracket
+    #  - name: Data Science
+    #    description: ''
+    #    percent: 100
+    #    icon: chart-bar
+    #  - name: SQL
+   #     description: ''
+   #     percent: 40
+    #    icon: circle-stack
+  #- name: Hobbies
+  #  color: '#eeac02'
+  #  color_border: '#f0bf23'
+  #  items:
+   #   - name: Hiking
+   #     description: ''
+   #     percent: 60
+    #    icon: person-simple-walk
+    #  - name: Cats
+    #    description: ''
+    #    percent: 100
+    #    icon: cat
+    #  - name: Photography
+    #    description: ''
+    #    percent: 80
+    #    icon: camera
 
 languages:
   - name: English
