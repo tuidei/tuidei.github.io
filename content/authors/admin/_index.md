@@ -38,7 +38,7 @@ profiles:
   #- icon: brands/instagram
   #  url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/tuidei
   #- icon: brands/linkedin
   #  url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -115,7 +115,7 @@ awards:
   - title: Dissertation Continuation Fellowship
   #  url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2023-11-25'
-    awarder: Coursera
+    awarder: MSU
   #  icon: coursera
   #  summary: |
   #    I studied the foundational concept of neural networks and deep learning. 
