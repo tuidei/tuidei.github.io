@@ -1,9 +1,6 @@
 ---
-sections:
--block:
-  content:
-  title: "Cyclic shuffle compatibility"
-  authors:
+title: "Cyclic shuffle compatibility"
+authors:
 - admin
 - Rachel Domagalski 
 - Quinn Minnich
