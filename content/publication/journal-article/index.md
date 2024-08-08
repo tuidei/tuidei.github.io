@@ -64,4 +64,13 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
+title: "Cyclic Pattern Containment and Avoidance"
+authors:
+- admin
+- Rachel Domagalski 
+- Quinn Minnich
+- Bruce E. Sagan
+- Jamie Schmidt
+- Alexander Sietsema
 ---
